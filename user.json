@@ -1,0 +1,10 @@
+{
+	"KPA*L": "{<}",
+	"STHROER": "{}{>}",
+	"STHRO*ER": "{^}{>}",
+	"SKR-R": "{#control(left)}",
+	"SKR-G": "{#control(right)}",
+	"SRAO*UP": "{#AudioRaiseVolume}",
+	"SRAO*UB": "{#AudioLowerVolume}",
+	"TR-FPL": "Terraform"
+}
